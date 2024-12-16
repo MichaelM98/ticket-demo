@@ -74,13 +74,5 @@ With the issue resolved, the ticket is marked as closed. Jane documents the reso
 ---
 
 ## **Reflection**  
-This project demonstrates the complete lifecycle of a ticket in osTicket, from submission to resolution. The process highlights essential skills in ticket management, troubleshooting, and communication, which are critical for success in an IT support role.
-
----
-
-## **Next Steps**  
-To further improve and optimize this project, I plan to:  
-- Integrate **email-to-ticket** functionality for seamless user submissions.  
-- Configure SLA policies to track ticket resolution times effectively.  
-- Automate responses using **canned replies** for frequently encountered issues.
+This project demonstrates the complete lifecycle of a ticket in osTicket, from submission to resolution. The process highlights essential skills in ticket management, troubleshooting, and communication.
 
